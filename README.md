@@ -1,2 +1,2 @@
 
-for-buildables.vercel.app
+https://for-buildables.vercel.app
